@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Cam",
+  "description": "A minimalist, high-performance camera application with AI-powered scene analysis.",
+  "requestFramePermissions": ["camera"]
+}
